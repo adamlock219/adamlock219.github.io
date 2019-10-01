@@ -24,4 +24,8 @@ unfortutnately my design wasn't used in the final product but it was ok to see t
 
 I also did the sign-in and sign up button for the website but unfortunately I pushed it to the repository and the group didn't merge it to the final build.
 
-![image-title-here](/adamlock219.github.io/images/indexpage2.png){:class="img-responsive"}
+![image-title-here](/adamlock219.github.io/images/signin.png){:class="img-responsive"}
+
+i also wrote a whole heap of documents on research for coding evironments, user guides for bootstrap. 
+
+
