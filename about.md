@@ -5,7 +5,9 @@ permalink: /about/
 ---
 
 Name: Adam Lock
+
 Team: Front End
+
 Specialization: Programming
 
 ### Contact me
