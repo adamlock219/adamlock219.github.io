@@ -16,4 +16,12 @@ my first  role on the front end team was to make the index page/header and foote
 example here:
 ![image-title-here](/adamlock219.github.io/images/indexpage.png){:class="img-responsive"}
 
-Nick told me to make the button
+Nick told me to make the buttons magenta as it's a common occurence through out Deakins website and  i made the changes here.
+
+![image-title-here](/adamlock219.github.io/images/indexpage2.png){:class="img-responsive"}
+
+unfortutnately my design wasn't used in the final product but it was ok to see the quality you need to produce to be competitive.
+
+I also did the sign-in and sign up button for the website but unfortunately I pushed it to the repository and the group didn't merge it to the final build.
+
+![image-title-here](/adamlock219.github.io/images/indexpage2.png){:class="img-responsive"}
