@@ -18,6 +18,8 @@ example here:
 
 Nick told me to make the buttons magenta as it's a common occurence through out Deakins website and  i made the changes here.
 
+although I was proud of the changes I made I think I hardcoded too often. This was not a good way to do it and I need to improve.
+
 ![image-title-here](/adamlock219.github.io/images/indexpage2.png){:class="img-responsive"}
 
 unfortutnately my design wasn't used in the final product but it was ok to see the quality you need to produce to be competitive.
@@ -26,6 +28,15 @@ I also did the sign-in and sign up button for the website but unfortunately I pu
 
 ![image-title-here](/adamlock219.github.io/images/signin.png){:class="img-responsive"}
 
-i also wrote a whole heap of documents on research for coding evironments, user guides for bootstrap. 
+I do however have the commits i made to bitbucket.
 
+![image-title-here](/adamlock219.github.io/images/bitbucket.png){:class="img-responsive"}
+![image-title-here](/adamlock219.github.io/images/bitbucket2.png){:class="img-responsive"}
 
+i also wrote a whole heap of documents on research for coding evironments, user guides for bootstrap.
+
+![image-title-here](/adamlock219.github.io/images/bootstrap.png){:class="img-responsive"}
+![image-title-here](/adamlock219.github.io/images/web.png){:class="img-responsive"}
+
+All in all I have shown what I have commited to the project and believe I should pass the unit based on this.
+I haven't included all the  assessment tasks I have done, only what I committed to the project.
